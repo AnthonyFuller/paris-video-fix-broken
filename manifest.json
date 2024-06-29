@@ -5,6 +5,7 @@
 	"name": "Paris Video Fix",
 	"description": " Fixes the Paris briefing and debriefing videos broken in the 3.190.0 patch. ",
 	"authors": ["Anthony Fuller"],
+	"contentFolders": ["content"],
 	"frameworkVersion": "2.33.16",
 	"updateCheck": "https://github.com/AnthonyFuller/paris-video-fix/releases/latest/download/updates.json"
 }

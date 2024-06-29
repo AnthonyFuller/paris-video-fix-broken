@@ -1,0 +1,18 @@
+{
+	"tempHash": "004B994D6A1FD721",
+	"tbluHash": "008390D9EA277512",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"abe679c7c19e3fd9",
+				{
+					"PatchArrayPropertyValue": [
+						"m_aVideDatabases",
+						[{ "AddItemAfter": ["816bf698030d58eb", "ae3ea52523f82c5e"] }]
+					]
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}
